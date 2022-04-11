@@ -1,3 +1,6 @@
 // This file was created live
 
-console.log("Hello Ironhackers!", "This is the first demo of Live Share", "Tell me how it's going")
+let log = console.log
+log("Hello Ironhackers!", "This is the first demo of Live Share", "Tell me how it's going");
+
+log ('JS loaded')
