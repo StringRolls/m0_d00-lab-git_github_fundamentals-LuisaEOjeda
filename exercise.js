@@ -6,3 +6,5 @@ log("Hello Ironhackers!", "This is the first demo of Live Share", "Tell me how i
 log ('JS loaded');
 
 log(`Hello poeple`);
+
+log(`Another commit`)
